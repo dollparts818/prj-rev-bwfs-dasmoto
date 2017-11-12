@@ -1,0 +1,42 @@
+/* General Design */
+html{
+  font-family:Helvetica;
+}
+
+/* Main Banner Design (h1) */
+h1{
+  font-family:Helvetica;
+  font-size:100px;
+  font-weight:bold;
+  color:khaki;
+  text-align: center;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg")
+}
+
+/*Banners font design (h2)*/
+h2{
+  font-family:Helvetica;
+  font-size:32px;
+  font-weight: bold;
+  color: white;
+}
+
+/*Banners color design (h2) */
+#brushes {
+  background-color: mediumspringgreen;
+}
+
+#frames{
+  background-color: lightcoral;
+}
+
+#paint{
+  background-color: skyblue;
+}
+
+/*Prices text design */
+
+.price{
+  font-weight: bold;
+  color:blue;
+}
